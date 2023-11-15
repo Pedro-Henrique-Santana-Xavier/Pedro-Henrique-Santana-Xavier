@@ -2,7 +2,6 @@
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-Henrique-Santana-Xavier)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-santana-xavier-3360a7208/)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-santana-xavier-3360a7208/)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Henrique-Santana-Xavier&theme=midnight-purple)
 
