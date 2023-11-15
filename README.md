@@ -24,5 +24,5 @@
 ![ORACLEDB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 # Um pouco mais sobre mim! 
-#### Atualmente, concentro a maior parte do meu tempo na busca por aprimorar minhas habilidades como desenvolvedor Java. No entanto, evito restringir meu foco exclusivamente à experiência prática, pois reconheço que a excelência na programação vai além disso. Dessa forma, integro conceitos como Design Patterns, Domain-driven Design, XP, UML e Metodologias Ágeis em meu cronograma de estudos, compreendendo que esses são elementos fundamentais para o desenvolvimento de habilidades abrangentes na área.
+#### Atualmente, concentro a maior parte do meu tempo na busca por aprimorar minhas habilidades como desenvolvedor Java. No entanto, evito restringir meu foco exclusivamente na experiência prática, pois reconheço que a excelência na programação vai além disso. Dessa forma, integro conceitos como Design Patterns, Domain-driven Design, XP, UML e Metodologias Ágeis em meu cronograma de estudos, compreendendo que esses são elementos fundamentais para o desenvolvimento de habilidades abrangentes na área.
 
